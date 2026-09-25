@@ -23,7 +23,8 @@ if (senha == loginSenha) {
 
 if (usOk == true) {
   if (snOk == true) {
-    acessoaPermitido = true;
+    acessoaPermitido
+     = true;
   }
 }
 
